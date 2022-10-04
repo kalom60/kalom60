@@ -4,7 +4,7 @@ A dedicated software developer with a love for back-end and full-stack developme
 
 - 🔭 I’m currently working on chat app called DevChat
 - 📝 I write articles on [https://medium.com/@Kalom10](https://medium.com/@Kalom10)
-- 📫 How to reach me: **kaleatesfaye00@gmail.com**
+- 📫 How to reach me: **kaleabtesfaye00@gmail.com**
 - ⚡ Fun fact: I love football/soccer
 
 <h3 align="left">Languages and Tools:</h3>
