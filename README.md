@@ -1,6 +1,6 @@
  ### 🐳 About Me
  
-A dedicated software developer with a love for full-stack and front-end development. I'm interested in creating applications that offer solid answers to difficult issues.
+A dedicated software developer with a love for back-end and full-stack development. I'm interested in creating applications that offer solid answers to difficult issues.
 
 - 🔭 I’m currently working on chat app called DevChat
 - 📝 I write articles on [https://medium.com/@Kalom10](https://medium.com/@Kalom10)
