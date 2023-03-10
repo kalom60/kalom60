@@ -2,7 +2,7 @@
  
 A dedicated software developer with a love for back-end and full-stack development. I'm interested in creating applications that offer solid answers to difficult issues.
 
-- 🔭 I’m currently working on chat app called DevChat
+- 🔭 I’m currently working at Tria Trading
 - 📝 I write articles on [https://medium.com/@Kalom10](https://medium.com/@Kalom10)
 - 📫 How to reach me: **kaleabtesfaye00@gmail.com**
 - ⚡ Fun fact: I love football/soccer
